@@ -1,2 +1,2 @@
-# Sub.domain
-A list of all subdomains for popular sites
+# Subdomains
+A list of all subdomains for popular sites. Most subdomains are unavailable.
